@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TouchUI/static/css/main.31aecf95.css",
+    "main.js": "/TouchUI/static/js/main.77c28bd5.js",
+    "static/js/787.530929ee.chunk.js": "/TouchUI/static/js/787.530929ee.chunk.js",
+    "index.html": "/TouchUI/index.html",
+    "main.31aecf95.css.map": "/TouchUI/static/css/main.31aecf95.css.map",
+    "main.77c28bd5.js.map": "/TouchUI/static/js/main.77c28bd5.js.map",
+    "787.530929ee.chunk.js.map": "/TouchUI/static/js/787.530929ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31aecf95.css",
+    "static/js/main.77c28bd5.js"
+  ]
+}
